@@ -4,7 +4,9 @@ A fun react playground.
 
 Based on this public [GitHub Repository](https://github.com/hiteshchoudhary/react-english)
 
-[Youtube Vids](https://www.youtube.com/watch?v=lf8giXzuxVE)
+[Youtube Vid 01](https://www.youtube.com/watch?v=lf8giXzuxVE)
+
+[Youtube Vid Series](https://www.youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq)
 
 ## Create New React Project
 
@@ -14,5 +16,6 @@ Based on this public [GitHub Repository](https://github.com/hiteshchoudhary/reac
 -- npx create-react-app 01basicreact
 
 [Vite](https://vitejs.dev/)
+
 [Scaffold Vite Project](https://vitejs.dev/guide/)
 -- npm create vite@latest
