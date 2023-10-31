@@ -19,3 +19,20 @@ Based on this public [GitHub Repository](https://github.com/hiteshchoudhary/reac
 
 [Scaffold Vite Project](https://vitejs.dev/guide/)
 -- npm create vite@latest
+
+### Tailwind and Props in React JS
+
+-- npm create vite@latest
+project name: 03tailwindprops
+
+[Tailwind framework guides](https://tailwindcss.com/docs/installation/framework-guides)
+
+[Vite](https://tailwindcss.com/docs/guides/vite)
+
+Follow instructions to setup your project
+Example... copy and run following commands to initialize tailwindcss
+
+```cmd
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
