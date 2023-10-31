@@ -37,7 +37,7 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
-### Background Changer
+### Background Changer - useState
 
 ```cmd
 npm create vite@latest
@@ -51,4 +51,19 @@ Example... copy and run following commands to initialize tailwindcss
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
+```
+
+### Password Generator - useEffect, useRef and useCallback using Memoization
+
+```cmd
+npm create vite@latest
+project name: 05passwordgenerator
+
+[Vite](https://tailwindcss.com/docs/guides/vite)
+
+Follow instructions to setup your project
+Example... copy and run following commands to initialize tailwindcss
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
