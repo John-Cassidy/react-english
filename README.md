@@ -88,3 +88,24 @@ Example... copy and run following commands to initialize tailwindcss
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
+
+### React router
+
+[React Router](https://reactrouter.com/en/main)
+[createBrowserRouter](https://reactrouter.com/en/main/routers/create-browser-router)
+[Main Concepts](https://reactrouter.com/en/main/start/concepts)
+
+```cmd
+npm create vite@latest
+project name: 07reactRouter
+
+[Vite](https://tailwindcss.com/docs/guides/vite)
+
+Follow instructions to setup your project
+Example... copy and run following commands to initialize tailwindcss
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm i react-router-dom
+```
