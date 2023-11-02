@@ -117,3 +117,19 @@ npm create vite@latest
 project name: 08miniContext
 
 ```
+
+### Build a dark mode | light mode with Context API
+
+```cmd
+npm create vite@latest
+project name: 09themeswitcher
+
+[Vite](https://tailwindcss.com/docs/guides/vite)
+
+Follow instructions to setup your project
+Example... copy and run following commands to initialize tailwindcss
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+```
