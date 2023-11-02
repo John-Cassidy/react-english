@@ -109,3 +109,11 @@ npx tailwindcss init -p
 
 npm i react-router-dom
 ```
+
+### Context API
+
+```cmd
+npm create vite@latest
+project name: 08miniContext
+
+```
